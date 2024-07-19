@@ -1,0 +1,18 @@
+.heading{
+    text-align: center;
+}
+.prv{
+    text-align: left;
+}
+.dna{
+    text-align: center;
+}
+.prk{
+    text-align: right;
+}
+.last{
+    text-align: center;
+}
+p{
+    color: grey;
+}
